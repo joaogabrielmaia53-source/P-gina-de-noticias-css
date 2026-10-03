@@ -1,0 +1,101 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&display=swap');
+
+
+/* 
+#titulo {
+    color: #790D16;
+    font-size: 42px;
+    text-align: center;
+
+}
+
+#paragrafo {
+    color: #4b5156;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    word-spacing: 5px;
+    letter-spacing: 3px;
+    text-align:justify ;
+    line-height: 30px;
+}
+
+body {
+    background-color: blue;
+}
+
+* {
+    font-family: "Bitcount Ink", system-ui;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Ink:wght@100..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#guia-eleitor {
+    color: grey(84, 84, 84);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#titulo {
+    color:red;
+    font-size: 36px;
+}
+
+#rodape {
+    color:grey;
+    font-size: 12px;
+}
+
+#container {
+    height: 35vh ;
+    width: 40vw;
+}
+
+#futebol{
+    color: grey(84, 84, 84);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#titulo1 {
+    color:red;
+    font-size: 36px;
+}
+
+#rodape1 {
+    color:grey;
+    font-size: 12px;
+}
+
+#container1 {
+    height: 35vh ;
+    width: 40vw;
+}
+
+#educação {
+    color: grey(84, 84, 84);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+#titulo2 {
+    color:red;
+    font-size: 36px;
+}
+
+#rodape2 {
+    color:grey;
+    font-size: 12px;
+}
+
+#container2 {
+    height: 35vh ;
+    width: 40vw;
+}
